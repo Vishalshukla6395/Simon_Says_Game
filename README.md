@@ -28,4 +28,4 @@ A fun and interactive web-based memory game that challenges users to mimic an in
 ---
 
 ## Live Demo
-Try the game here: [Simon Says Live Demo](#)  
+Try the game here: [Simon Says Live Demo](https://vishalshukla6395.github.io/Simon_Says_Game/)
